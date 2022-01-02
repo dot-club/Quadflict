@@ -1,2 +1,2 @@
 # Quadflict
-A top-down shooter written in Processing
+A top-down adventure game written in Processing
